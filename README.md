@@ -2,6 +2,7 @@
 Measuring height using Arduino UNO
 
 | No. | Components                | Quantity |
+|-----|---------------------------|----------|
 | 1   | Arduino UNO               |     1    |
 | 2   | Breadboard                |     1    |
 | 3   | Ultrasonic sensor HC-SR04 |     1    |
